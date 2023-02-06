@@ -4,7 +4,7 @@ pipeline {
    cron('H/15 * * * *')
   }
   stages {
-    stage('my hook echo') {
+    stage('my echo') {
       steps {
         echo 'hello from the trigger'
       }
