@@ -1,2 +1,2 @@
 # some_code
-just a shell script
+just a simple shell script
